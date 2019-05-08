@@ -1,3 +1,3 @@
 1 + 1
-
-1 + "is the loneliest number"
+newstring = "1" + "is the loneliest number"
+printf(newstring)
